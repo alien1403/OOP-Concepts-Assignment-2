@@ -25,8 +25,8 @@ API:
   Phone phone= new Samsung(); // shouldn't compile
        Phone phone = new SamsungGalaxy6();
 
-       phone.addContact("1", "phone number", "fist name", "last name");
-       phone.addContact("2", "phone number", "fist name", "last name");
+       phone.addContact("1", "phone number", "first name", "last name");
+       phone.addContact("2", "phone number", "first name", "last name");
        phone.listContacts();
 
        // send a message to the first contact from the previous listed
