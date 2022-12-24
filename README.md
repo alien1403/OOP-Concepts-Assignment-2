@@ -11,8 +11,8 @@ All phones offer the following behavior:
 
 
 Implement a phone hierarchy where:
-- A phone can be of certain manufacters and it can have a specific model (Phone - Samsung - SamsungGalaxyS6)
-- properties wich cannot change: battery life (in number of hours)
+- A phone can be of certain manufacturers and it can have a specific model (Phone - Samsung - SamsungGalaxyS6)
+- properties which cannot change: battery life (in number of hours)
 - properties that are configurable: color, material
 - properties that are instance specific: imei
 
