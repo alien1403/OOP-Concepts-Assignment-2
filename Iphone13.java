@@ -3,8 +3,8 @@ public class Iphone13 extends Phone implements Apple{
         super();
     }
 
-    Iphone13(String color, String material){
-        super(color, material);
+    Iphone13(String color, String material, int baterryLife){
+        super(color, material, baterryLife);
 
     }
 }
